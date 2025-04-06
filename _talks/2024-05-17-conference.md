@@ -1,0 +1,11 @@
+---
+title: "The 2024 NUS Accounting Research Symposium: Accounting and Decision-Making"
+collection: talks
+type: "Conference"
+permalink: /talks/2024-05-17-conference
+venue: "NUS Business School"
+date: 2024-05-17
+location: "Singapore"
+---
+
+The NUS Accounting Research Symposium aims to promote cutting-edge research on accounting and decision-making. The 2024 symposium featured keynote speeches and paper presentations by scholars from leading global institutions, fostering scholarly exchange and collaboration. 
