@@ -2,7 +2,7 @@
 title: "Teaching Assistant"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/2024-autumn-teaching-1
 venue: "National University of Singapore, Department of Accounting"
 date: 2024-08-15
 location: "Singapore"
