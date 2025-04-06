@@ -14,11 +14,11 @@ redirect_from:
 ## Education
 
 **National University of Singapore (NUS)**  
-_Ph.D. in Accounting_ | Aug. 2023 – Present  
+_Ph.D. in Accounting_ | 2027 (Expected)  
 Supervisor: [Bin KE](https://discovery.nus.edu.sg/6143-bin-ke)
 
 **Macau University of Science and Technology (MUST)**  
-_B.B.A. in Business Analytics, Second-Class Honors_ | Sept. 2019 – June 2023
+_B.B.A. in Business Analytics_ | 2023
 
 **Fudan University (FDU)**  
 _Hong Kong & Macau Student Exchange_ | Feb. 2022 – June 2022
