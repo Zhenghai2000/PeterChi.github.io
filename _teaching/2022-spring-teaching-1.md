@@ -8,4 +8,4 @@ date: 2022-02-01
 location: "Macau"
 ---
 
-The objective of the [course](https://msb.must.edu.mo/page/id-3506.html) is to introduce the basic concepts and principles of both financial accounting, without being excessively technical and procedural in emphasis. 
+The objective of the [course](https://msb.must.edu.mo/page/id-3506.html) is to introduce the basic concepts and principles of both financial accounting, without being excessively technical and procedural in emphasis. I served as the Teaching Assistant.
