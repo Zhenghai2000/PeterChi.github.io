@@ -9,56 +9,112 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+---
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Education
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**National University of Singapore (NUS)**  
+_Ph.D. in Accounting_ | Aug. 2023 – Present  
+Supervisor: [Bin KE](https://discovery.nus.edu.sg/6143-bin-ke)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**Macau University of Science and Technology (MUST)**  
+_B.B.A. in Business Analytics, Second-Class Honors_ | Sept. 2019 – June 2023
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+**Fudan University (FDU)**  
+_Hong Kong & Macau Student Exchange_ | Feb. 2022 – June 2022
+
+---
+
+## Research
+
+**Research Interests**  
+- Social Media  
+- Information in Digital Spaces  
+- Social Economics and Social Networks  
+- Applied Machine Learning
+
+**Working Papers**
+
+- _“The Costs of Silence: The Impact of Misinformation Regulation on Finfluencers and the Corporate Information Environment”_  
+  First-year summer paper (with Bin KE)  
+  **Selected Conferences**: NUS Accounting Seminar (2024), [ABFER 12th Annual Conference (2025)](https://abfer.org/events/abfer-events/annual-conference/403:acct2025)
+
+- _“The Unintended Consequences of Communication Technology on Student Loan Borrowing Behavior: Evidence from the Rollout of Facebook”_  
+  Developed from second-year term project (solo-authored)  
+  **Selected Conferences**: NUS ACC Doctoral Consortium (2024), Singapore Rising Scholars Conference (2025)
+
+---
+
+## Invited Conferences and Workshops
+
+(* indicates presenter; † indicates coauthor presenter)
+
+- The Asian Bureau of Finance and Economic Research 12th Annual Conference* (May 2025)  
+- Singapore Rising Scholars Conference* (May 2025)  
+- Causal Inference Workshop at the University of Arizona (Apr. 2025)  
+- NUS ACC Doctoral Consortium* (Dec. 2024)  
+- The Asian Bureau of Finance and Economic Research 11th Annual Conference (May 2024)  
+- The 2024 NUS Accounting Research Symposium: Accounting and Decision-Making (May 2024)  
+- Tri-University Accounting Conference (Apr. 2024)
+
+---
+
+## Teaching
+
+**National University of Singapore (NUS)**  
+_Teaching Assistant_  
+- Governance, Risk Management and Sustainability (Undergraduate) | AY2024/25
+
+**Macau University of Science and Technology (MUST)**  
+_Teaching Assistant_  
+- Introduction to Financial Accounting (Undergraduate) | AY2021/22
+
+---
+
+## Awards and Honors
+
+- Causal Inference Workshop (Funded Participant) – Arnold Ventures, 2025  
+- NUS Department of Accounting Doctoral Consortium Award – NUS, 2024  
+- NUS Research Scholarship – NUS, 2023–2027  
+- Henry Fok Foundation Scholarship – 2021  
+- Third Prize, Outstanding Cultural and Academic Award – MUST, 2020  
+- Outstanding Community Service Award – MUST, 2020  
+- Outstanding Scholarship – MUST, 2019–2023  
+- Dean’s List – MUST, 2019–2022  
+
+---
+
+## Professional Experience
+
+**Research Assistant**  
+- National University of Singapore | Jul. 2022 – Oct. 2022  
+  Supervisor: Dr. Bin KE
+
+**Bank of China Macau Branch**  
+- Internship | Feb. 2022 – May 2022  
+  Mentor: Mr. Kin-Wai LEE
+
+**Research Assistant**  
+- MUST & Collaborators | Jun. 2021 – Mar. 2022  
+  Supervisors: Dr. Hiu Lam CHOY (Drexel University), Dr. Chun LU (Hitotsubashi University)
+
+---
+
+## Memberships and Service
+
+**Memberships**  
+- American Economic Association  
+- American Finance Association  
+- Eurasia Business and Economics Society
+
+**Ad-hoc Reviewer**  
+- *Technological Forecasting and Social Change*  
+- *Journal of Organizational and End User Computing*
+
+---
+
+## Personal Information
+
+- **Languages**: Mandarin (native), English (fluent)  
+- **Programming & Software**: Python, R, Stata, NVivo, Atlas.ti, Orange  
+- **Interests**: Piano, Classical Music, Anime
