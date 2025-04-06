@@ -9,7 +9,7 @@ redirect_from:
 
 I am a second-year Ph.D. student at the [Deparment of Accounting](https://bschool.nus.edu.sg/accounting/), [NUS Business School](https://bschool.nus.edu.sg/), supervised by Professor [Bin KE](https://discovery.nus.edu.sg/6143-bin-ke). 
 
-Before starting my Ph.D. at NUS, I received my B.B.A. in Business Analytics (BA) from Macau University of Science and Technology (MUST). You can find my [CV here](../assets/Peter_CV.pdf).
+Before starting my Ph.D. at NUS, I received my B.B.A. in Business Analytics (BA) from Macau University of Science and Technology (MUST). You can find my [CV here](/assets/Peter_CV.pdf).
 
 A data-driven personal website
 ======
