@@ -73,11 +73,11 @@ _Hong Kong & Macau Student Exchange_ | Feb. 2022 – June 2022
 
 ## Awards and Honors
 
-- Causal Inference Workshop (Funded Participant) – Arnold Ventures, 2025  
+- Causal Inference Workshop (Travel Grant) – Arnold Ventures, 2025  
 - NUS Department of Accounting Doctoral Consortium Award – NUS, 2024  
 - NUS Research Scholarship – NUS, 2023–2027  
-- Henry Fok Foundation Scholarship – 2021  
-- Third Prize, Outstanding Cultural and Academic Award – MUST, 2020  
+- Henry Fok Foundation Scholarship – Henry Fok Foundation, 2021  
+- Third Prize of Outstanding Cultural and Academic Award – MUST, 2020  
 - Outstanding Community Service Award – MUST, 2020  
 - Outstanding Scholarship – MUST, 2019–2023  
 - Dean’s List – MUST, 2019–2022  
@@ -87,16 +87,16 @@ _Hong Kong & Macau Student Exchange_ | Feb. 2022 – June 2022
 ## Professional Experience
 
 **Research Assistant**  
-- National University of Singapore | Jul. 2022 – Oct. 2022  
-  Supervisor: Dr. Bin KE
+- Jul. 2022 – Oct. 2022  
+- Supervisor: Dr. Bin KE (National University of Singapore)
 
-**Bank of China Macau Branch**  
-- Internship | Feb. 2022 – May 2022  
-  Mentor: Mr. Kin-Wai LEE
+**Bank of China Macau Branch (Banco da China, Sucursal de Macau)**  
+- Feb. 2022 – May 2022  
+- Mentor: Mr. Kin-Wai LEE (Bank of China Macau Branch)
 
 **Research Assistant**  
-- MUST & Collaborators | Jun. 2021 – Mar. 2022  
-  Supervisors: Dr. Hiu Lam CHOY (Drexel University), Dr. Chun LU (Hitotsubashi University)
+- Jun. 2021 – Mar. 2022  
+- Supervisors: Dr. Hiu Lam CHOY (Drexel University), Dr. Chun LU (Hitotsubashi University)
 
 ---
 
@@ -117,4 +117,4 @@ _Hong Kong & Macau Student Exchange_ | Feb. 2022 – June 2022
 
 - **Languages**: Mandarin (native), English (fluent)  
 - **Programming & Software**: Python, R, Stata, NVivo, Atlas.ti, Orange  
-- **Interests**: Piano, Classical Music, Anime
+- **Interests**: Piano, Chinese Flute, Anime
