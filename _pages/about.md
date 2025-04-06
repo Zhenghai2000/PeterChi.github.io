@@ -11,7 +11,7 @@ I am a second-year Ph.D. student at the [Deparment of Accounting](https://bschoo
 
 Before starting my Ph.D. at NUS, I received my B.B.A. in Business Analytics (BA) from Macau University of Science and Technology (MUST). You can download my CV [here](https://www.dropbox.com/scl/fi/jx3zq9trq59hxo4s6z7aj/Peter_CV.pdf?rlkey=hvn98dien328136313v15d1dh&dl=0).
 
-A data-driven personal website
+My Research 
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
