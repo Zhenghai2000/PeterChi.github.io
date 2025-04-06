@@ -47,7 +47,9 @@ _Hong Kong & Macau Student Exchange_ | Feb. 2022 – June 2022
 
 ## Invited Conferences and Workshops
 
-(* indicates presenter; † indicates coauthor presenter)
+<p align="center">(* indicates presenter; † indicates coauthor presenter)</p>
+
+
 
 - The Asian Bureau of Finance and Economic Research 12th Annual Conference* (May 2025)  
 - Singapore Rising Scholars Conference* (May 2025)  
