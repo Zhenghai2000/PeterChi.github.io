@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant"
+title: "Governance, Risk Management and Sustainability"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2024-autumn-teaching-1
@@ -8,13 +8,4 @@ date: 2024-08-15
 location: "Singapore"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+The [course](https://nusmods.com/courses/ACC3706/governance-risk-management-and-sustainability) covers corporate governance from a multidisciplinary perspective including law, finance, accounting and economics. I served as the Teaching Assistant. 
