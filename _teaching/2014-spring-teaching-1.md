@@ -2,6 +2,7 @@
 title: "Teaching Assistant"
 collection: teaching
 type: "Undergraduate course"
+permalink: /teaching/2014-spring-teaching-1
 venue: "Macau University of Science and Technology, Department of Accounting and Finance"
 date: 2022-02-01
 location: "Macau"
