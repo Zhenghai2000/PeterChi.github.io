@@ -13,7 +13,7 @@ Before starting my Ph.D. at NUS, I received my B.B.A. in Business Analytics (BA)
 
 Research Interest
 ======
-Social Media
-Information in Digital Spaces
-Social Economics & Social Networks
-Applied Machine Learning
+- Social Media 
+- Information in Digital Spaces
+- Social Economics & Social Networks
+- Applied Machine Learning
