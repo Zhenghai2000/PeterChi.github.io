@@ -49,8 +49,6 @@ _Hong Kong & Macau Student Exchange_ | Feb. 2022 – June 2022
 
 <p align="center">(* indicates presenter; † indicates coauthor presenter)</p>
 
-
-
 - The Asian Bureau of Finance and Economic Research 12th Annual Conference* (May 2025)  
 - Singapore Rising Scholars Conference* (May 2025)  
 - Causal Inference Workshop at the University of Arizona (Apr. 2025)  
@@ -64,11 +62,11 @@ _Hong Kong & Macau Student Exchange_ | Feb. 2022 – June 2022
 ## Teaching
 
 **National University of Singapore (NUS)**  
-_Teaching Assistant_  
+- Teaching Assistant  
 - Governance, Risk Management and Sustainability (Undergraduate) | AY2024/25
 
 **Macau University of Science and Technology (MUST)**  
-_Teaching Assistant_  
+- Teaching Assistant  
 - Introduction to Financial Accounting (Undergraduate) | AY2021/22
 
 ---
