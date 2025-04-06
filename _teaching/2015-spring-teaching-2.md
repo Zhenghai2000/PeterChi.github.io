@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "National University of Singapore, Department of Accounting"
-date: Academic Year 2024/2025
+date: 2024
 location: "Singapore"
 ---
 
