@@ -1,7 +1,7 @@
 ---
 title: "The Costs of Silence: The Impact of Misinformation Regulation on Finfluencers and Corporate Information Environment"
 collection: publications
-category: Working Papers
+category: Conference paper
 permalink: /publication/2025-03-15-working-paper
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2025-03-15
