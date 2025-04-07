@@ -5,7 +5,6 @@ permalink: /posts/EDGAR
 tags:
   - EDGAR
   - Market Technology
-  - 
 ---
 
 Public Data Source: [click here](https://www.federalregister.gov/citation/58-FR-14628)
