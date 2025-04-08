@@ -1,0 +1,15 @@
+---
+title: 'CEO Turnover and Dismissal: 1992-2018'
+date: 2021-02-03
+permalink: /posts/2021/02/blog-post-5/
+tags:
+  - CEO
+  - Job hopping
+  - Coporate government 
+---
+
+Public Data Source: [click here](https://zenodo.org/records/4543893)
+
+This open-source dataset documents the reasons for CEO departures in S&P 1500 firms from 2000 to 2018. It provides eight categories of CEO turnover, covering both voluntary and involuntary exits, along with narrative descriptions and source links for each event to facilitate verification and further research. The dataset is compared with three existing datasets in the CEO succession literature to examine differences in classification and their potential impact on empirical findings related to CEO performance and dismissal. 
+
+For more information, please refer to [*"A database of CEO turnover and dismissal in S&P 1500 firms, 2000–2018"*](https://sms-onlinelibrary-wiley-com.libproxy1.nus.edu.sg/doi/full/10.1002/smj.3278) (Gentry et al., 2021).
