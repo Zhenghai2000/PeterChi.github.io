@@ -40,7 +40,7 @@ _Hong Kong & Macau Student Exchange_ | Feb. 2022 – June 2022
   **Selected Conferences**: NUS Accounting Seminar (2024), [ABFER 12th Annual Conference (2025)](https://abfer.org/events/abfer-events/annual-conference/403:acct2025)
 
 - _“The Unintended Consequences of Communication Technology on Student Loan Borrowing Behavior: Evidence from the Rollout of Facebook”_  
-  Developed from my second-year term project (solo-authored)  
+  Developed from my second-year term project (solo)  
   **Selected Conferences**: NUS ACC Doctoral Consortium (2024), Singapore Rising Scholars Conference (2025)
 
 ---
