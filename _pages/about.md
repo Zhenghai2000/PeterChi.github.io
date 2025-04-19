@@ -17,7 +17,7 @@ I employ econometric and machine learning methods to investigate topics at the i
 
 One strand of my research explores **misinformation in digital spaces**. I highlight the role of government regulators in governing market information and examine whether regulatory interventions can effectively curtail misinformation and enhance the efficiency of information intermediaries in capital markets. This contributes to our understanding of how information flows evolve in the digital age, and how such landscape-shifting changes reshape firms’ information environment, market efficiency, and regulation. 
 
-Another area of my research investigates the **real effects** of information technology *per se* and digital information. In the spirit of Social Economics, I examine how social media facilitates information acquisition through social networks, thereby influencing individual loan borrowing behavior. This line of research underscores that the impact of digital spaces is not confined to virtual interactions; rather, it extends to real-world economic decisions and outcomes. By lowering information acquisition costs, digital platforms affect financial behaviors and ultimately, the allocation of economic resources.  
+Another area of my research investigates the **real effects** of information technology *per se* and digital information. In the spirit of Social Economics, I examine how social media facilitates information acquisition through social networks, thereby influencing individual loan borrowing behavior. This line of research underscores that the impact of digital spaces is not confined to virtual interactions; rather, it extends to real-world economic decisions and resource allocation. 
 
 Research Interest
 ======
