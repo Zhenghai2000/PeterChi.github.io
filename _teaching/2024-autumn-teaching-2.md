@@ -3,7 +3,7 @@ title: "Governance, Risk Management and Sustainability"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2024-autumn-teaching-1
-venue: "National University of Singapore, Department of Accounting"
+venue: "Department of Accounting, National University of Singapore"
 date: 2024-08-15
 location: "Singapore"
 ---
