@@ -41,7 +41,7 @@ _Hong Kong & Macau Student Exchange_ | Feb. 2022 – June 2022
 
 - _“The Unintended Consequences of Communication Technology on Student Loan Borrowing Behavior: Evidence from the Rollout of Facebook”_  
   Developed from my second-year term project (solo)  
-  **Selected Conferences**: NUS ACC Doctoral Consortium (2024), Singapore Rising Scholars Conference (2025)
+  **Selected Conferences**: NUS ACC Doctoral Consortium (2024), [Singapore Rising Scholars Conference (2025)](https://eventregistration.smu.edu.sg/event/b75d38cf-daff-434e-9523-e3c81ef6f564/breakout-sessions-5)
 
 ---
 
