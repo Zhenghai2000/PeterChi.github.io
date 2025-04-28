@@ -37,7 +37,7 @@ _Hong Kong & Macau Student Exchange_ | Feb. 2022 – June 2022
 
 - [_“The Costs of Silence: The Impact of Misinformation Regulation on Finfluencers and the Corporate Information Environment”_](https://www.dropbox.com/scl/fi/ub8ebbpfm3ixlb7s68i3k/20250304_KE_CHI_The-Costs-of-Silence-The-Impact-of-Misinformation-Regulation-on-Finfluencers-and-Corporate-Information-Environment.pdf?rlkey=627lozquj73cwnfbndwsq8g0x&dl=0)  
   First-year summer paper (with Bin KE)  
-  **Selected Conferences**: NUS Acc Brownbag (2024), [ABFER 12th Annual Conference (2025)](https://abfer.org/events/abfer-events/annual-conference/403:acct2025)
+  **Selected Conferences**: NUS ACC Brownbag (2024), [ABFER 12th Annual Conference (2025)](https://abfer.org/events/abfer-events/annual-conference/403:acct2025)
 
 - _“The Unintended Consequences of Communication Technology on Student Loan Borrowing Behavior: Evidence from the Rollout of Facebook”_  
   Developed from my second-year term project (solo)  
