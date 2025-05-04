@@ -15,7 +15,6 @@ redirect_from:
 
 **National University of Singapore (NUS)**  
 _Ph.D. in Accounting_ | 2027 (Expected)  
-Supervisor: [Bin KE](https://discovery.nus.edu.sg/6143-bin-ke)
 
 **Macau University of Science and Technology (MUST)**  
 _B.B.A. in Business Analytics_ | 2023
