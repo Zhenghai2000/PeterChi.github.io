@@ -48,7 +48,8 @@ _Hong Kong & Macau Student Exchange_ | Feb. 2022 – June 2022
 
 <p align="center">(* indicates presenter; † indicates coauthor presenter)</p>
 
-- The Asian Bureau of Finance and Economic Research 12th Annual Conference† (May 2025)  
+- The 14th MoFiR Workshop on Banking (June 2025) 
+- The Asian Bureau of Finance and Economic Research 12th Annual Conference† (May 2025) 
 - Singapore Rising Scholars Conference* (May 2025)  
 - Causal Inference Workshop at the University of Arizona (Apr. 2025)  
 - NUS ACC Doctoral Consortium* (Dec. 2024)  
