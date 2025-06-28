@@ -14,13 +14,13 @@ redirect_from:
 ## Education
 
 **National University of Singapore (NUS)**  
-_Ph.D. in Accounting_ | 2027 (Expected)  
+_Ph.D. in Accounting_ | 2027 (Expected) 
 
 **Macau University of Science and Technology (MUST)**  
-_B.B.A. in Business Analytics_ | 2023
+_B.B.A. in Business Analytics_ | 2023 
 
 **Fudan University (FDU)**  
-_Hong Kong & Macau Student Exchange_ | Feb. 2022 – June 2022
+_Hong Kong & Macau Student Exchange_ | Feb. 2022 – June 2022 
 
 ---
 
@@ -28,27 +28,30 @@ _Hong Kong & Macau Student Exchange_ | Feb. 2022 – June 2022
 
 **Research Interests**  
 - Social Media  
-- Information in Digital Spaces  
+- Information Economics in Digital Spaces  
 - Social Economics and Social Networks  
-- Applied Machine Learning
+- Computational Social Science
 
 **Working Papers**
 
 - [_“The Costs of Silence: The Impact of Misinformation Regulation on Finfluencers and the Corporate Information Environment”_](https://www.dropbox.com/scl/fi/ub8ebbpfm3ixlb7s68i3k/20250304_KE_CHI_The-Costs-of-Silence-The-Impact-of-Misinformation-Regulation-on-Finfluencers-and-Corporate-Information-Environment.pdf?rlkey=627lozquj73cwnfbndwsq8g0x&dl=0)  
   First-year summer paper (with Bin KE)  
-  **Selected Conferences**: NUS ACC Brownbag (2024), [ABFER 12th Annual Conference (2025)](https://abfer.org/events/abfer-events/annual-conference/403:acct2025)
+  **Presented at**: NUS ACC Brownbag (2024), [ABFER 12th Annual Conference (2025)](https://abfer.org/events/abfer-events/annual-conference/403:acct2025)
 
 - _“The Unintended Consequences of Communication Technology on Student Loan Borrowing Behavior: Evidence from the Rollout of Facebook”_  
   Developed from my second-year term project (solo)  
-  **Selected Conferences**: NUS ACC Doctoral Consortium (2024), [Singapore Rising Scholars Conference (2025)](https://eventregistration.smu.edu.sg/event/b75d38cf-daff-434e-9523-e3c81ef6f564/breakout-sessions-5)
+  **Presented at**: NUS ACC Doctoral Consortium (2024), [Singapore Rising Scholars Conference (2025)](https://eventregistration.smu.edu.sg/event/b75d38cf-daff-434e-9523-e3c81ef6f564/breakout-sessions-5), Doctoral Forum, Antai College of Economics and Management (2025)
+
 
 ---
 
-## Invited Conferences and Workshops
+## Conferences and Workshops
 
 <p align="center">(* indicates presenter; † indicates coauthor presenter)</p>
 
-- The 14th MoFiR Workshop on Banking (June 2025) 
+- 2025 Doctoral Forum, Antai College of Economics and Management, SJTU* (Jul. 2025) 
+- 2025 China International Conference in Finance (Jun. 2025) 
+- The 14th MoFiR Workshop on Banking (Jun. 2025) 
 - The Asian Bureau of Finance and Economic Research 12th Annual Conference† (May 2025) 
 - Singapore Rising Scholars Conference* (May 2025)  
 - Causal Inference Workshop at the University of Arizona (Apr. 2025)  
