@@ -40,7 +40,7 @@ _Hong Kong & Macau Student Exchange_ | Feb. 2022 – June 2022
 
 - _“The Unintended Consequences of Communication Technology on Student Loan Borrowing Behavior: Evidence from the Rollout of Facebook”_  
   Developed from my second-year term project (solo)  
-  **Presented at**: NUS ACC Doctoral Consortium (2024), [Singapore Rising Scholars Conference (2025)](https://eventregistration.smu.edu.sg/event/b75d38cf-daff-434e-9523-e3c81ef6f564/breakout-sessions-5), Doctoral Forum, Antai College of Economics and Management (2025)
+  **Presented at**: NUS ACC Doctoral Consortium (2024), [Singapore Rising Scholars Conference (2025)](https://eventregistration.smu.edu.sg/event/b75d38cf-daff-434e-9523-e3c81ef6f564/breakout-sessions-5), ACEM Doctoral Students Forum (2025)
 
 
 ---
@@ -49,7 +49,7 @@ _Hong Kong & Macau Student Exchange_ | Feb. 2022 – June 2022
 
 <p align="center">(* indicates presenter; † indicates coauthor presenter)</p>
 
-- 2025 Doctoral Forum, Antai College of Economics and Management, SJTU* (Jul. 2025) 
+- 2025 ACEM Doctoral Students Forum* (Jul. 2025) 
 - 2025 China International Conference in Finance (Jun. 2025) 
 - The 14th MoFiR Workshop on Banking (Jun. 2025) 
 - The Asian Bureau of Finance and Economic Research 12th Annual Conference† (May 2025) 
