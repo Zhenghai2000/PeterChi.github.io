@@ -38,7 +38,7 @@ _Hong Kong & Macau Student Exchange_ | Feb. 2022 – June 2022
   First-year summer paper (with Bin KE)  
   **Presented at**: NUS ACC Brownbag (2024), [ABFER 12th Annual Conference (2025)](https://abfer.org/events/abfer-events/annual-conference/403:acct2025)
 
-- _“The Unintended Consequences of Communication Technology on Student Loan Borrowing Behavior: Evidence from the Rollout of Facebook”_  
+- [_“The Unintended Consequences of Communication Technology on Student Loan Borrowing Behavior: Evidence from the Rollout of Facebook”_](https://www.dropbox.com/scl/fi/z4w53c9j6jkzi4uesr86p/20250719_working-paper.pdf?rlkey=69oqcjte91utabqws85zmco0m&dl=0)  
   Developed from my second-year term project (solo)  
   **Presented at**: NUS ACC Doctoral Consortium (2024), [Singapore Rising Scholars Conference (2025)](https://eventregistration.smu.edu.sg/event/b75d38cf-daff-434e-9523-e3c81ef6f564/breakout-sessions-5), ACEM Doctoral Students Forum (2025)
  
