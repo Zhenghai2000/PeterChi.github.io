@@ -1,5 +1,5 @@
 ---
-title: "The Unintended Consequences of Communication Technology on Student Loan Borrowing Behavior: Evidence from the Rollout of Facebook"
+title: "Communication Technology and Student Loan Borrowing Behavior: Evidence from the Rollout of Facebook"
 collection: publications
 category: working
 permalink: /publication/2025-02-11-working-paper
