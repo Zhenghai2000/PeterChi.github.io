@@ -74,11 +74,12 @@ Hong Kong & Macau Student Exchange | Feb. 2022 – June 2022
 
 **National University of Singapore (NUS)**  
 - Teaching Assistant  
-- _Governance, Risk Management and Sustainability_ (Undergraduate), AY2024/25
+- _Governance, Risk Management and Sustainability_ (UG), AY2024/25
 
 **Macau University of Science and Technology (MUST)**  
-- Teaching Assistant  
-- _Introduction to Financial Accounting_ (Undergraduate), AY2021/22
+- Teaching Assistant
+- _Big Data_ (UG); _Data Mining_ (UG), AY2022/23
+- _Introduction to Financial Accounting_ (UG), AY2021/22
 
 ---
 
