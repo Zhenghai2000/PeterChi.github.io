@@ -14,13 +14,14 @@ redirect_from:
 ## Education
 
 **National University of Singapore (NUS)**  
-_Ph.D. in Accounting_ | 2027 (Expected) 
+Ph.D. in Accounting | 2027 (Expected) 
 
 **Macau University of Science and Technology (MUST)**  
-_B.B.A. in Business Analytics_ | 2023 
+B.B.A. in Business Analytics | 2023 
+_First Class Honors; Second-class University Honor Cord_
 
 **Fudan University (FDU)**  
-_Hong Kong & Macau Student Exchange_ | Feb. 2022 – June 2022 
+Hong Kong & Macau Student Exchange | Feb. 2022 – June 2022 
 
 ---
 
@@ -34,9 +35,13 @@ _Hong Kong & Macau Student Exchange_ | Feb. 2022 – June 2022
 
 **Working Papers**
 
+- [_“Financial Disclosure by Contractors and Government Funding Allocation: Evidence from U.S. Research Universities”_]
+(https://www.dropbox.com/scl/fi/09ecvza2s40ll9bpoe7ja/20260312_GASB_university.pdf?rlkey=2sh8xtknqug8uz2ew9tvk8xjc&e=1&st=0b4fi8o8&dl=0)
+  **Presented at**: Singapore Rising Scholars Conference (2026), ABFER 13th Annual Conference Poster Session (2026), CAAA Annual Conference (2026)
+
 - [_“The Costs of Silence: The Impact of Misinformation Regulation on Finfluencers and the Corporate Information Environment”_](https://www.dropbox.com/scl/fi/ub8ebbpfm3ixlb7s68i3k/20250304_KE_CHI_The-Costs-of-Silence-The-Impact-of-Misinformation-Regulation-on-Finfluencers-and-Corporate-Information-Environment.pdf?rlkey=627lozquj73cwnfbndwsq8g0x&dl=0)  
   First-year summer paper (with Bin KE)  
-  **Presented at**: NUS ACC Brownbag (2024), [ABFER 12th Annual Conference (2025)](https://abfer.org/events/abfer-events/annual-conference/403:acct2025)
+  **Presented at**: NUS ACC Brownbag (2024), [ABFER 12th Annual Conference (2025)](https://abfer.org/events/abfer-events/annual-conference/403:acct2025), CAAA Annual Conference (2026)
 
 - [_“Communication Technology and Student Loan Borrowing Behavior: Evidence from the Rollout of Facebook”_](https://www.dropbox.com/scl/fi/z4w53c9j6jkzi4uesr86p/20250719_working-paper.pdf?rlkey=69oqcjte91utabqws85zmco0m&dl=0)  
   Developed from my second-year term project (solo)  
@@ -49,6 +54,9 @@ _Hong Kong & Macau Student Exchange_ | Feb. 2022 – June 2022
 
 <p align="center">(* indicates presenter; † indicates coauthor presenter)</p>
 
+- 2026 Canadian Academic Accounting Association Annual Conference* (Jun. 2026)
+- Asian Bureau of Finance and Economic Research 13th Annual Conference* (May 2026)
+- Singapore Rising Scholars Conference* (May 2026)
 - 2025 ACEM Doctoral Students Forum* (Jul. 2025) 
 - 2025 China International Conference in Finance (Jun. 2025) 
 - The 14th MoFiR Workshop on Banking (Jun. 2025) 
@@ -76,7 +84,7 @@ _Hong Kong & Macau Student Exchange_ | Feb. 2022 – June 2022
 
 ## Awards and Honors
 
-- Causal Inference Workshop (Travel Grant) – Arnold Ventures, 2025  
+- Travel Grant – Arnold Ventures, 2025  
 - NUS Department of Accounting Doctoral Consortium Award – NUS, 2024  
 - NUS Research Scholarship – NUS, 2023–2027  
 - Henry Fok Foundation Scholarship – Henry Fok Foundation, 2021  
@@ -108,11 +116,14 @@ _Hong Kong & Macau Student Exchange_ | Feb. 2022 – June 2022
 **Memberships**  
 - American Economic Association  
 - American Finance Association  
-- Eurasia Business and Economics Society
+- Canadian Academic Accounting Association
 
 **Ad-hoc Reviewer**  
 - *Technological Forecasting and Social Change*  
 - *Journal of Organizational and End User Computing*
+- AAA Annual Meeting
+- ARCS Annual Research Conference
+- AOM Annual Meeting
 
 ---
 
