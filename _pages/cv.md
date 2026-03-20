@@ -25,7 +25,9 @@ Hong Kong & Macau Student Exchange | Feb. 2022 – June 2022
 
 ---
 
-## Research Fields and Methodology 
+## Research 
+
+**Research Fields and Methodology** 
 
 <b>Field I:</b> Information Economics, Social Media, Disclosure Regulation<br>
 <b>Field II:</b> Public Economics, Public Sector, Higher Education, Tax<br>
