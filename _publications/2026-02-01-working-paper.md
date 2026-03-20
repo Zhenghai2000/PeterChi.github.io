@@ -1,4 +1,4 @@
-\---
+---
 
 title: "Financial Disclosure by Contractors and Government Funding Allocation: Evidence from U.S. Research Universities"
 collection: publications
