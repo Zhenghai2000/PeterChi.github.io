@@ -35,8 +35,7 @@ Hong Kong & Macau Student Exchange | Feb. 2022 – June 2022
 
 **Working Papers**
 
-- [_“Financial Disclosure by Contractors and Government Funding Allocation: Evidence from U.S. Research Universities”_]
-(https://www.dropbox.com/scl/fi/09ecvza2s40ll9bpoe7ja/20260312_GASB_university.pdf?rlkey=2sh8xtknqug8uz2ew9tvk8xjc&e=1&st=0b4fi8o8&dl=0)  
+- [_“Financial Disclosure by Contractors and Government Funding Allocation: Evidence from U.S. Research Universities”_](https://www.dropbox.com/scl/fi/09ecvza2s40ll9bpoe7ja/20260312_GASB_university.pdf?rlkey=2sh8xtknqug8uz2ew9tvk8xjc&e=1&st=0b4fi8o8&dl=0)  
   **Presented at**: Singapore Rising Scholars Conference (2026), ABFER 13th Annual Conference Poster Session (2026), CAAA Annual Conference (2026)
 
 - [_“The Costs of Silence: The Impact of Misinformation Regulation on Finfluencers and the Corporate Information Environment”_](https://www.dropbox.com/scl/fi/ub8ebbpfm3ixlb7s68i3k/20250304_KE_CHI_The-Costs-of-Silence-The-Impact-of-Misinformation-Regulation-on-Finfluencers-and-Corporate-Information-Environment.pdf?rlkey=627lozquj73cwnfbndwsq8g0x&dl=0)  
