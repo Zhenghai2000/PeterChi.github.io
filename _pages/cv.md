@@ -25,13 +25,10 @@ Hong Kong & Macau Student Exchange | Feb. 2022 – June 2022
 
 ---
 
-## Research
-
-**Research Interests**  
-- Social Media  
-- Information Economics in Digital Spaces  
-- Social Economics and Social Networks  
-- Computational Social Science
+<b>Research Fields and Methodology</b><br><br>
+<b>Field I:</b> Information Economics, Social Media, Disclosure Regulation<br>
+<b>Field II:</b> Public Economics, Public Sector, Higher Education, Tax<br>
+<b>Methodology:</b> Econometrics, Machine Learning, Complex Networks, NLP
 
 **Working Papers**
 
