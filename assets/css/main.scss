@@ -43,7 +43,7 @@
 ;
 
 /* 👇 你加在这里 */
-.author__avatar img {
+/*.author__avatar img {
   border-radius: 10px !important;
   width: 100% !important;
   height: auto !important;
@@ -52,4 +52,16 @@
 
 .author__avatar {
   max-width: 400px;
+}*/
+
+
+.author__avatar img {
+  border-radius: 8px !important;   /* 方形+轻微圆角 */
+  width: 100% !important;
+  height: auto !important;
+  object-fit: cover !important;
+}
+
+.author__avatar {
+  max-width: 350px !important;   /* 控制大小（可以调） */
 }
