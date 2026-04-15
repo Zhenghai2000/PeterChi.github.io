@@ -41,3 +41,15 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+
+/* 👇 你加在这里 */
+.author__avatar img {
+  border-radius: 10px !important;
+  width: 100% !important;
+  height: auto !important;
+  object-fit: contain !important;
+}
+
+.author__avatar {
+  max-width: 400px;
+}
