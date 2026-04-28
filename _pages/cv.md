@@ -18,7 +18,7 @@ Ph.D. in Accounting | 2027 (Expected)
 
 **Macau University of Science and Technology (MUST)**  
 B.B.A. in Business Analytics | 2023  
-_First Class Honors; Second-class University Honor Cord_
+_First Class Honors; Second Class University Honor Cord_
 
 **Fudan University (FDU)**  
 Hong Kong & Macau Student Exchange | Feb. 2022 – June 2022 
