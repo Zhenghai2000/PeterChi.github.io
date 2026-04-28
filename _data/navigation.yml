@@ -11,8 +11,8 @@ main:
   - title: "Research"
     url: /publications/
 
-  - title: "Conferences and Workshops"
-    url: /talks/    
+  # - title: "Conferences and Workshops"
+  #   url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
