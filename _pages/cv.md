@@ -53,8 +53,8 @@ Hong Kong & Macau Student Exchange | Feb. 2022 – June 2022
 
 <p align="center">(* indicates presenter; † indicates coauthor presenter; <sup>D</sup> indicates discussant)</p>
 
-- 2026 Accounting and Finance Association of Australia and New Zealand Conference* (Jul. 2026)
-- 2026 Canadian Academic Accounting Association Annual Conference* (Jun. 2026)
+- 2026 Accounting and Finance Association of Australia and New Zealand Conference*<sup>D</sup> (Jul. 2026)
+- 2026 Canadian Academic Accounting Association Annual Conference*<sup>D</sup> (Jun. 2026)
 - Asian Bureau of Finance and Economic Research 13th Annual Conference* (May 2026)
 - Singapore Rising Scholars Conference* (May 2026)
 - 2025 Singapore Accounting Symposium (Dec. 2025)
