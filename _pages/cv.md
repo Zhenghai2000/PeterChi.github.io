@@ -57,6 +57,7 @@ Hong Kong & Macau Student Exchange | Feb. 2022 – June 2022
 - 2026 Canadian Academic Accounting Association Annual Conference*<sup>D</sup> (Jun. 2026)
 - Asian Bureau of Finance and Economic Research 13th Annual Conference* (May 2026)
 - Singapore Rising Scholars Conference* (May 2026)
+- Tri-University Conference 2026 (Apr. 2026)
 - 2025 Singapore Accounting Symposium (Dec. 2025)
 - 2025 ACEM Doctoral Students Forum* (Jul. 2025) 
 - 2025 China International Conference in Finance (Jun. 2025) 
