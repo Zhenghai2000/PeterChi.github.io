@@ -91,6 +91,7 @@ Teaching Assistant
 
 ## Awards and Honors
 
+- RADS Best Paper Award - Rutgers Business School, 2026
 - Travel Grant – Arnold Ventures, 2025  
 - NUS Department of Accounting Doctoral Consortium Award – NUS, 2024  
 - NUS Research Scholarship – NUS, 2023–2027  
