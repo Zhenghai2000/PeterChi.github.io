@@ -31,7 +31,7 @@ Hong Kong & Macau Student Exchange | Feb. 2022 – June 2022
 
 - **Field I**: Information Economics, Social Media, Disclosure Regulation  
 - **Field II**: Public Economics, Public Sector  
-- **Methodology**: Econometrics, Machine Learning, Complex Networks, NLP
+- **Methodology**: Econometrics, Machine Learning, NLP, Network Analysis, Stylized Theory Model  
 
 **Working Papers**
 
