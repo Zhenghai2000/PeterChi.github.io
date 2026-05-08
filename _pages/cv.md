@@ -14,7 +14,7 @@ redirect_from:
 ## Education
 
 **National University of Singapore (NUS)**  
-Ph.D. in Accounting | 2027 (Expected) 
+Ph.D. in Accounting | 2027 (Expected)  
 Supervisor: KE Bin
 
 **Macau University of Science and Technology (MUST)**  
