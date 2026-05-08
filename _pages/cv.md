@@ -36,7 +36,7 @@ Hong Kong & Macau Student Exchange | Feb. 2022 – June 2022
 **Working Papers**
 
 - [_“Financial Disclosure by Government Contractors and Government Funding Allocation: Evidence from U.S. Research Universities”_](https://www.dropbox.com/scl/fi/09ecvza2s40ll9bpoe7ja/GASB_university.pdf?rlkey=2sh8xtknqug8uz2ew9tvk8xjc&st=3hgw8acr&dl=0)  
-  **Presented at**: Singapore Rising Scholars Conference (2026), ABFER 13th Annual Conference Poster Session (2026), Rutgers Accounting Doctoral Symposium (2026), CAAA Annual Conference (2026), AFAANZ Conference (2026)
+  **Presented at**: Singapore Rising Scholars Conference (2026), ABFER 13th Annual Conference Poster Session (2026), Rutgers Accounting Doctoral Symposium (2026), CAAA Annual Conference (2026), AFAANZ Conference (2026) 
   **Award**: 2026 Rutgers Accounting Doctoral Symposium Best Paper Award
 
 - [_“The Costs of Silence: How the Enforcement of Misinformation Regulation Shapes Finfluencers and the Corporate Information Environment”_](https://www.dropbox.com/scl/fi/ub8ebbpfm3ixlb7s68i3k/Misinformation_paper.pdf?rlkey=627lozquj73cwnfbndwsq8g0x&st=ieuzp0v7&dl=0)  
