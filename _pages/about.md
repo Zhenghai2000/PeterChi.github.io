@@ -16,4 +16,4 @@ Before starting my Ph.D. at [National University of Singapore (NUS)](https://www
 Research Fields 
 ======
 - **Primary Field**: Information Economics, Social Media, Disclosure Regulation  
-- **Secondary Field**: Public Economics, Public Sector  
+- **Secondary Field**: Public Economics, Public Sector, Transparency   
