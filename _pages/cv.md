@@ -126,7 +126,8 @@ Teaching Assistant
 
 **Memberships**  
 - American Economic Association  
-- American Finance Association  
+- American Finance Association
+- American Accounting Association
 - Canadian Academic Accounting Association
 
 **Ad-hoc Reviewer**  
