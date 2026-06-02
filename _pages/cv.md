@@ -128,6 +128,7 @@ Teaching Assistant
 - American Economic Association  
 - American Finance Association
 - American Accounting Association
+- Accounting and Finance Association of Australia and New Zealand
 - Canadian Academic Accounting Association
 
 **Ad-hoc Reviewer**  
