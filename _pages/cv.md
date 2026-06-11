@@ -47,7 +47,7 @@ Hong Kong & Macau Student Exchange | Feb. 2022 – June 2022
 
 - [_“Communication Technology and Student Loan Borrowing Behavior: Evidence from the Rollout of Facebook”_](https://www.dropbox.com/scl/fi/z4w53c9j6jkzi4uesr86p/20250719_working-paper.pdf?rlkey=69oqcjte91utabqws85zmco0m&dl=0)  
   Developed from my second-year term project  
-  **Presented at**: NUS ACC Doctoral Consortium (2024), [Singapore Rising Scholars Conference (2025)](https://eventregistration.smu.edu.sg/event/b75d38cf-daff-434e-9523-e3c81ef6f564/breakout-sessions-5), ACEM Doctoral Students Forum (2025)
+  **Presented at**: NUS ACC Doctoral Consortium (2024), [Singapore Rising Scholars Conference (2025)](https://eventregistration.smu.edu.sg/event/b75d38cf-daff-434e-9523-e3c81ef6f564/breakout-sessions-5), ACEM Doctoral Students Forum (2025)  
   **Award**: NUS Department of Accounting Doctoral Consortium Award  
  
 
