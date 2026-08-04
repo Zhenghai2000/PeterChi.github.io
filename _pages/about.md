@@ -20,5 +20,7 @@ Research Fields
 
 I study disclosure and information production through the lens of information economics and public economics. I tackle these questions using econometrics, stylized theory models, novel data, and computational methods. 
 
-My research is not pursued for the sake of definitive answers, as no definitive answer can, as a rule, be known to be true. Instead, it values “research” itself – an inquiry that enlarges our conception of what is possible, enriches our rational imagination, and resists the dogmatic certainty that closes the mind to speculation. 
+Research Philosophy 
+======
+My research is not for the sake of definitive answers, as no definitive answer can, as a rule, be known to be true. Instead, it values “research” itself – an inquiry that enlarges our conception of what is possible, enriches our rational imagination, and resists the dogmatic certainty that closes the mind to speculation. 
 
