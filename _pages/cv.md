@@ -144,4 +144,4 @@ Teaching Assistant
 
 - **Languages**: Mandarin (native), English (fluent)  
 - **Programming & Software**: Python, R, Stata, NVivo, Atlas.ti, $\LaTeX$   
-- **Interests**: Piano, Chinese Flute, Runing
+- **Interests**: Piano, Chinese Flute, Running, Reading
