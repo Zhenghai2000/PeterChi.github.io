@@ -1,7 +1,7 @@
 ---
 title: "Data Mining and Machine Learning"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate Level"
 permalink: /teaching/2023-srping-teaching-4
 venue: "Department of Decision Sciences, Macau University of Science and Technology"
 date: 2023-02-01
