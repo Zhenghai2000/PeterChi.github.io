@@ -126,15 +126,14 @@ Teaching Assistant
 ## Memberships and Service
 
 **Memberships**  
-- American Economic Association  
-- American Finance Association
-- American Accounting Association
-- Accounting and Finance Association of Australia and New Zealand
-- Canadian Academic Accounting Association
+- AEA
+- AFA
+- AAA
+- AFAANZ
+- CAAA
 
 **Ad-hoc Reviewer**  
 - *Technological Forecasting and Social Change*  
-- *Journal of Organizational and End User Computing*
 - AAA Annual Meeting
 - ARCS Annual Research Conference
 - AOM Annual Meeting
@@ -144,5 +143,5 @@ Teaching Assistant
 ## Personal Information
 
 - **Languages**: Mandarin (native), English (fluent)  
-- **Programming & Software**: Python, R, Stata, NVivo, Atlas.ti, Orange  
-- **Interests**: Piano, Chinese Flute, Anime
+- **Programming & Software**: Python, R, Stata, NVivo, Atlas.ti, $\LaTeX$   
+- **Interests**: Piano, Chinese Flute, Runing
