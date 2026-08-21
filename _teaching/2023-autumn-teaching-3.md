@@ -1,7 +1,7 @@
 ---
 title: "Big Data"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate Level"
 permalink: /teaching/2023-autumn-teaching-3
 venue: "Department of Decision Sciences, Macau University of Science and Technology"
 date: 2023-09-01
