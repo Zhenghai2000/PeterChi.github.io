@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Financial Accounting"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate Level"
 permalink: /teaching/2022-spring-teaching-1
 venue: "Department of Accounting and Finance, Macau University of Science and Technology"
 date: 2022-02-01
