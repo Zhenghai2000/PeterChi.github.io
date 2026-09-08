@@ -15,7 +15,7 @@ redirect_from:
 
 **National University of Singapore (NUS)**  
 Ph.D. in Accounting | 2027 (Expected)  
-Supervisor: KE Bin
+Committee: [Bin KE (Chair)](https://discovery.nus.edu.sg/6143-bin-ke/about), [Guoman SHE](https://discovery.nus.edu.sg/29352-guoman-she), [Shushu JIANG](https://discovery.nus.edu.sg/22568-shushu-jiang), [Yibin LIU](https://discovery.nus.edu.sg/20470-yibin-liu)
 
 **Macau University of Science and Technology (MUST)**  
 B.B.A. in Business Analytics | 2023  
@@ -36,14 +36,15 @@ Hong Kong & Macau Student Exchange | Feb. 2022 – June 2022
 
 **Working Papers**
 
-- [_“Financial Disclosure by Government Contractors and Government Funding Allocation: Evidence from U.S. Research Universities”_](https://www.dropbox.com/scl/fi/09ecvza2s40ll9bpoe7ja/GASB_university.pdf?rlkey=2sh8xtknqug8uz2ew9tvk8xjc&st=3hgw8acr&dl=0)  
-  - Third-year solo paper  
-  - **Presented at**: [Singapore Rising Scholars Conference (2026)](https://graduatestudies.smu.edu.sg/singapore-rising-scholars-conference/breakout-sessions-poster-presentations), [ABFER 13th Annual Conference Poster Session (2026)](https://www.abfer.org/events/abfer-events/annual-conference/442:posters-2026), [Rutgers Accounting Doctoral Symposium (2026)](https://www.business.rutgers.edu/events/rutgers-accounting-doctoral-symposium-rads), Craft of Accounting Research Workshop (2026), CAAA Annual Conference (2026), AFAANZ Conference (2026), AAA Global Emerging Scholars Research Workshop (2026)  
+- [_“Financial Disclosure by Government Contractors and Government Investment: Evidence from U.S. Research Universities”_](https://www.dropbox.com/scl/fi/09ecvza2s40ll9bpoe7ja/GASB_university.pdf?rlkey=2sh8xtknqug8uz2ew9tvk8xjc&st=3hgw8acr&dl=0)  
+  - Dissertation 
+  - **Presented at**: Singapore Rising Scholars Conference (2026), [ABFER 13th Annual Conference Poster Session (2026)](https://www.abfer.org/events/abfer-events/annual-conference/442:posters-2026), [Rutgers Accounting Doctoral Symposium (2026)](https://www.business.rutgers.edu/events/rutgers-accounting-doctoral-symposium-rads), Craft of Accounting Research Workshop (2026), CAAA Annual Conference (2026), AFAANZ Conference (2026), AAA Global Emerging Scholars Research Workshop (2026)  
   - **Award**: 2026 Rutgers Accounting Doctoral Symposium Best Paper Award
 
 - [_“The Costs of Silence: How the Enforcement of Misinformation Regulation Shapes Finfluencers and the Corporate Information Environment”_](https://www.dropbox.com/scl/fi/ub8ebbpfm3ixlb7s68i3k/Misinformation_paper.pdf?rlkey=627lozquj73cwnfbndwsq8g0x&st=ieuzp0v7&dl=0)  
   - First-year summer paper (with Bin KE)  
   - **Presented at**: NUS ACC Brownbag (2024), [ABFER 12th Annual Conference (2025)](https://abfer.org/events/abfer-events/annual-conference/403:acct2025), CAAA Annual Conference (2026), AFAANZ Conference (2026)
+  - **Revise-and-Resubmit (R&R)** at **_Journal of Accounting and Economics_** 
 
 - [_“Communication Technology and Student Loan Borrowing Behavior: Evidence from the Rollout of Facebook”_](https://www.dropbox.com/scl/fi/z4w53c9j6jkzi4uesr86p/20250719_working-paper.pdf?rlkey=69oqcjte91utabqws85zmco0m&dl=0)  
   - Developed from my second-year term project  
@@ -96,6 +97,7 @@ Teaching Assistant
 ## Awards and Honors
 
 - RADS Best Paper Award - Rutgers Business School, 2026
+- ABFER Sponsorship - Asian Bureau of Finance and Economic Research, 2025
 - Travel Grant – Arnold Ventures, 2025  
 - NUS Department of Accounting Doctoral Consortium Award – NUS, 2024  
 - NUS Research Scholarship – NUS, 2023–2027  
@@ -136,7 +138,6 @@ Teaching Assistant
 - *Technological Forecasting and Social Change*  
 - AAA Annual Meeting
 - ARCS Annual Research Conference
-- AOM Annual Meeting
 
 ---
 
