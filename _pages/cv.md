@@ -15,7 +15,7 @@ redirect_from:
 
 **National University of Singapore (NUS)**  
 Ph.D. in Accounting | 2027 (Expected)  
-Committee: [Bin KE](https://discovery.nus.edu.sg/6143-bin-ke/about)(Chair), [Guoman SHE](https://discovery.nus.edu.sg/29352-guoman-she), [Shushu JIANG](https://discovery.nus.edu.sg/22568-shushu-jiang), [Yibin LIU](https://discovery.nus.edu.sg/20470-yibin-liu)
+Committee: [Bin KE](https://discovery.nus.edu.sg/6143-bin-ke/about) (Chair), [Guoman SHE](https://discovery.nus.edu.sg/29352-guoman-she), [Shushu JIANG](https://discovery.nus.edu.sg/22568-shushu-jiang), [Yibin LIU](https://discovery.nus.edu.sg/20470-yibin-liu)
 
 **Macau University of Science and Technology (MUST)**  
 B.B.A. in Business Analytics | 2023  
