@@ -38,17 +38,17 @@ Hong Kong & Macau Student Exchange | Feb. 2022 – June 2022
 
 - [_“Financial Disclosure by Government Contractors and Government Investment: Evidence from U.S. Research Universities”_](https://www.dropbox.com/scl/fi/09ecvza2s40ll9bpoe7ja/GASB_university.pdf?rlkey=2sh8xtknqug8uz2ew9tvk8xjc&st=3hgw8acr&dl=0)  
   - Dissertation 
-  - **Presented at**: Singapore Rising Scholars Conference (2026), [ABFER 13th Annual Conference Poster Session (2026)](https://www.abfer.org/events/abfer-events/annual-conference/442:posters-2026), [Rutgers Accounting Doctoral Symposium (2026)](https://www.business.rutgers.edu/events/rutgers-accounting-doctoral-symposium-rads), Craft of Accounting Research Workshop (2026), CAAA Annual Conference (2026), AFAANZ Conference (2026), AAA Global Emerging Scholars Research Workshop (2026)  
+  - **Presented at**: 2026 Singapore Rising Scholars Conference, [ABFER 13th Annual Conference Poster Session](https://www.abfer.org/events/abfer-events/annual-conference/442:posters-2026), [2026 Rutgers Accounting Doctoral Symposium](https://www.business.rutgers.edu/events/rutgers-accounting-doctoral-symposium-rads), Craft of Accounting Research Workshop, 2026 CAAA Annual Conference, 2026 AFAANZ Conference, 2026 AAA Global Emerging Scholars Research Workshop; 2026 HKAAA Rookie Camp (scheduled); 2027 AFA Annual Meeting PhD Student Poster Session (scheduled)
   - **Award**: 2026 Rutgers Accounting Doctoral Symposium Best Paper Award
 
 - [_“The Costs of Silence: How the Enforcement of Misinformation Regulation Shapes Finfluencers and the Corporate Information Environment”_](https://www.dropbox.com/scl/fi/ub8ebbpfm3ixlb7s68i3k/Misinformation_paper.pdf?rlkey=627lozquj73cwnfbndwsq8g0x&st=ieuzp0v7&dl=0)  
   - First-year summer paper (with Bin KE)  
-  - **Presented at**: NUS ACC Brownbag (2024), [ABFER 12th Annual Conference (2025)](https://abfer.org/events/abfer-events/annual-conference/403:acct2025), CAAA Annual Conference (2026), AFAANZ Conference (2026)
+  - **Presented at**: NUS ACC Brownbag, [ABFER 12th Annual Conference](https://abfer.org/events/abfer-events/annual-conference/403:acct2025), 2026 CAAA Annual Conference, 2026 AFAANZ Conference; 2027 Hawai'i Accounting Research Conference (scheduled)
   - **Revise-and-Resubmit (R&R)** at **_Journal of Accounting and Economics_** 
 
 - [_“Communication Technology and Student Loan Borrowing Behavior: Evidence from the Rollout of Facebook”_](https://www.dropbox.com/scl/fi/z4w53c9j6jkzi4uesr86p/20250719_working-paper.pdf?rlkey=69oqcjte91utabqws85zmco0m&dl=0)  
   - Developed from my second-year term project  
-  - **Presented at**: NUS ACC Doctoral Consortium (2024), [Singapore Rising Scholars Conference (2025)](https://eventregistration.smu.edu.sg/event/b75d38cf-daff-434e-9523-e3c81ef6f564/breakout-sessions-5), ACEM Doctoral Students Forum (2025)  
+  - **Presented at**: 2024 NUS ACC Doctoral Consortium, [2025 Singapore Rising Scholars Conference](https://eventregistration.smu.edu.sg/event/b75d38cf-daff-434e-9523-e3c81ef6f564/breakout-sessions-5), 2025 ACEM Doctoral Students Forum  
   - **Award**: NUS Department of Accounting Doctoral Consortium Award  
  
 
