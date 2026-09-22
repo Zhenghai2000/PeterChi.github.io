@@ -58,6 +58,9 @@ Hong Kong & Macau Student Exchange | Feb. 2022 – June 2022
 
 <p align="center">(* indicates presenter; † indicates coauthor presenter; <sup>D</sup> indicates discussant)</p>
 
+- 2027 AFA Annual Meeting PhD Student Poster Session* (scheduled) (Jan. 2027)
+- 2027 Hawai'i Accounting Research Conference† (scheduled) (Jan. 2027)
+- 2026 HKAAA Rookie Camp* (scheduled) (Oct. 2026)
 - 2026 American Accounting Association Global Connect (formerly Annual Meeting)* (Aug. 2026)
 - 2026 Accounting and Finance Association of Australia and New Zealand Conference*<sup>D</sup> (Jul. 2026)
 - 2026 Canadian Academic Accounting Association Annual Conference*<sup>D</sup> (Jun. 2026)
@@ -96,6 +99,7 @@ Teaching Assistant
 
 ## Awards and Honors
 
+- Travel Grant - AFA, 2027
 - RADS Best Paper Award - Rutgers Business School, 2026
 - ABFER Sponsorship - Asian Bureau of Finance and Economic Research, 2025
 - Travel Grant – Arnold Ventures, 2025  
