@@ -99,6 +99,7 @@ Teaching Assistant
 
 ## Awards and Honors
 
+- Travel Grant - AFA, 2027
 - RADS Best Paper Award - Rutgers Business School, 2026
 - ABFER Sponsorship - Asian Bureau of Finance and Economic Research, 2025
 - Travel Grant – Arnold Ventures, 2025  
