@@ -46,7 +46,7 @@ Hong Kong & Macau Student Exchange | Feb. 2022 – June 2022
   - **Presented at**: NUS ACC Brownbag, [ABFER 12th Annual Conference](https://abfer.org/events/abfer-events/annual-conference/403:acct2025), 2026 CAAA Annual Conference, 2026 AFAANZ Conference; 2027 Hawai'i Accounting Research Conference (scheduled)
   - **Revise-and-Resubmit (R&R)** at **_Journal of Accounting and Economics_** 
 
-- [_“Communication Technology and Student Loan Borrowing Behavior: Evidence from the Rollout of Facebook”_](https://www.dropbox.com/scl/fi/z4w53c9j6jkzi4uesr86p/20250719_working-paper.pdf?rlkey=69oqcjte91utabqws85zmco0m&dl=0)  
+- _“Communication Technology and Student Loan Borrowing Behavior: Evidence from the Rollout of Facebook”_
   - Developed from my second-year term project  
   - **Presented at**: 2024 NUS ACC Doctoral Consortium, [2025 Singapore Rising Scholars Conference](https://eventregistration.smu.edu.sg/event/b75d38cf-daff-434e-9523-e3c81ef6f564/breakout-sessions-5), 2025 ACEM Doctoral Students Forum  
   - **Award**: NUS Department of Accounting Doctoral Consortium Award  
