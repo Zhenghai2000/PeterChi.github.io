@@ -30,16 +30,16 @@ Hong Kong & Macau Student Exchange | Feb. 2022 – June 2022
 
 **Research Fields and Methodology** 
 
-- **Field I**: Information Economics, Social Media, Disclosure   
-- **Field II**: Public Economics, Public Sector, Transparency  
+- **Field I**: Information Economics, Social Media, Finfluencers, Information Production   
+- **Field II**: Public Economics, Public Sector, Disclosure, Public Enforcement  
 - **Methodology**: Econometrics, Machine Learning, NLP, Network Analysis, Stylized Theory Model  
 
 **Working Papers**
 
-- [_“Financial Disclosure by Government Contractors and Government Investment: Evidence from U.S. Research Universities”_](https://www.dropbox.com/scl/fi/09ecvza2s40ll9bpoe7ja/GASB_university.pdf?rlkey=2sh8xtknqug8uz2ew9tvk8xjc&st=3hgw8acr&dl=0)  
+- [_“Financial Statement Disclosure by Universities and the Allocation of Federal Research Funding: Evidence from U.S. Research Universities”_](https://www.dropbox.com/scl/fi/09ecvza2s40ll9bpoe7ja/GASB_university.pdf?rlkey=2sh8xtknqug8uz2ew9tvk8xjc&st=3hgw8acr&dl=0)  
   - Dissertation 
-  - **Presented at**: 2026 Singapore Rising Scholars Conference, [ABFER 13th Annual Conference Poster Session](https://www.abfer.org/events/abfer-events/annual-conference/442:posters-2026), [2026 Rutgers Accounting Doctoral Symposium](https://www.business.rutgers.edu/events/rutgers-accounting-doctoral-symposium-rads), Craft of Accounting Research Workshop, 2026 CAAA Annual Conference, 2026 AFAANZ Conference, 2026 AAA Global Emerging Scholars Research Workshop; 2026 HKAAA Rookie Camp (scheduled); 2027 AFA Annual Meeting PhD Student Poster Session (scheduled)
-  - **Award**: 2026 Rutgers Accounting Doctoral Symposium Best Paper Award
+  - **Presented at**: 2026 Singapore Rising Scholars Conference, [ABFER 13th Annual Conference Poster Session](https://www.abfer.org/events/abfer-events/annual-conference/442:posters-2026), [2026 Rutgers Accounting Doctoral Symposium](https://www.business.rutgers.edu/events/rutgers-accounting-doctoral-symposium-rads), Craft of Accounting Research Workshop, 2026 CAAA Annual Conference, 2026 AFAANZ Conference, 2026 AAA Global Emerging Scholars Research Workshop; 2026 HKAAA Rookie Camp; 2026 Singapore Accounting Symposium PhD Poster Session (scheduled); 17th International Conference of The Japanese Accounting Review (scheduled); 2027 AFA Annual Meeting PhD Student Poster Session (scheduled) 
+  - **Award**: 2026 Rutgers Accounting Doctoral Symposium Best Paper Award 
 
 - [_“The Costs of Silence: How the Enforcement of Misinformation Regulation Shapes Finfluencers and the Corporate Information Environment”_](https://www.dropbox.com/scl/fi/ub8ebbpfm3ixlb7s68i3k/Misinformation_paper.pdf?rlkey=627lozquj73cwnfbndwsq8g0x&st=ieuzp0v7&dl=0)  
   - First-year summer paper (with Bin KE)  
@@ -58,15 +58,17 @@ Hong Kong & Macau Student Exchange | Feb. 2022 – June 2022
 
 <p align="center">(* indicates presenter; † indicates coauthor presenter; <sup>D</sup> indicates discussant)</p>
 
-- 2027 AFA Annual Meeting PhD Student Poster Session* (scheduled) (Jan. 2027)
-- 2027 Hawai'i Accounting Research Conference† (scheduled) (Jan. 2027)
-- 2026 HKAAA Rookie Camp* (scheduled) (Oct. 2026)
-- 2026 American Accounting Association Global Connect (formerly Annual Meeting)* (Aug. 2026)
-- 2026 Accounting and Finance Association of Australia and New Zealand Conference*<sup>D</sup> (Jul. 2026)
-- 2026 Canadian Academic Accounting Association Annual Conference*<sup>D</sup> (Jun. 2026)
-- 2026 Rutgers Accounting Doctoral Symposium (RADS)* (May 2026)
-- Asian Bureau of Finance and Economic Research 13th Annual Conference* (May 2026)
-- Singapore Rising Scholars Conference* (May 2026)
+- 2027 AFA Annual Meeting PhD Student Poster Session* (scheduled) (Jan. 2027) 
+- 2027 Hawai'i Accounting Research Conference† (scheduled) (Jan. 2027) 
+- 17th International Conference of The Japanese Accounting Review*<sup>D</sup> (scheduled) (Dec. 2026) 
+- 2026 Singapore Accounting Symposium PhD Poster Session* (scheduled) (Dec. 2026) 
+- 2026 HKAAA Rookie Camp* (Oct. 2026) 
+- 2026 American Accounting Association Global Connect (formerly Annual Meeting)* (Aug. 2026) 
+- 2026 Accounting and Finance Association of Australia and New Zealand Conference*<sup>D</sup> (Jul. 2026) 
+- 2026 Canadian Academic Accounting Association Annual Conference*<sup>D</sup> (Jun. 2026) 
+- 2026 Rutgers Accounting Doctoral Symposium (RADS)* (May 2026) 
+- Asian Bureau of Finance and Economic Research 13th Annual Conference* (May 2026) 
+- Singapore Rising Scholars Conference* (May 2026) 
 - Tri-University Conference 2026 (Apr. 2026)
 - 2025 Singapore Accounting Symposium (Dec. 2025)
 - 2025 ACEM Doctoral Students Forum* (Jul. 2025) 
