@@ -39,7 +39,7 @@ Hong Kong & Macau Student Exchange | Feb. 2022 – June 2022
 - [_“Financial Statement Disclosure by Universities and the Allocation of Federal Research Funding: Evidence from U.S. Research Universities”_](https://www.dropbox.com/scl/fi/09ecvza2s40ll9bpoe7ja/GASB_university.pdf?rlkey=2sh8xtknqug8uz2ew9tvk8xjc&st=3hgw8acr&dl=0)  
   - Dissertation 
   - **Presented at**: 2026 Singapore Rising Scholars Conference, [ABFER 13th Annual Conference Poster Session](https://www.abfer.org/events/abfer-events/annual-conference/442:posters-2026), [2026 Rutgers Accounting Doctoral Symposium](https://www.business.rutgers.edu/events/rutgers-accounting-doctoral-symposium-rads), Craft of Accounting Research Workshop, 2026 CAAA Annual Conference, 2026 AFAANZ Conference, 2026 AAA Global Emerging Scholars Research Workshop; 2026 HKAAA Rookie Camp; 2026 Singapore Accounting Symposium PhD Poster Session (scheduled); 17th International Conference of The Japanese Accounting Review (scheduled); 2027 AFA Annual Meeting PhD Student Poster Session (scheduled) 
-  - **Award**: 2026 Rutgers Accounting Doctoral Symposium Best Paper Award 
+  - **Award**: [2026 Rutgers Accounting Doctoral Symposium Best Paper Award](https://www.business.rutgers.edu/events/rutgers-accounting-doctoral-symposium-rads)
 
 - [_“The Costs of Silence: How the Enforcement of Misinformation Regulation Shapes Finfluencers and the Corporate Information Environment”_](https://www.dropbox.com/scl/fi/ub8ebbpfm3ixlb7s68i3k/Misinformation_paper.pdf?rlkey=627lozquj73cwnfbndwsq8g0x&st=ieuzp0v7&dl=0)  
   - First-year summer paper (with Bin KE)  
@@ -51,7 +51,6 @@ Hong Kong & Macau Student Exchange | Feb. 2022 – June 2022
   - **Presented at**: 2024 NUS ACC Doctoral Consortium, [2025 Singapore Rising Scholars Conference](https://eventregistration.smu.edu.sg/event/b75d38cf-daff-434e-9523-e3c81ef6f564/breakout-sessions-5), 2025 ACEM Doctoral Students Forum  
   - **Award**: NUS Department of Accounting Doctoral Consortium Award  
  
-
 ---
 
 ## Conferences and Workshops
@@ -101,9 +100,9 @@ Teaching Assistant
 
 ## Awards and Honors
 
-- Travel Grant - AFA, 2027
-- RADS Best Paper Award - Rutgers Business School, 2026
-- ABFER Sponsorship - Asian Bureau of Finance and Economic Research, 2025
+- Travel Grant - AFA, 2027 
+- RADS Best Paper Award - Rutgers Business School, 2026 
+- ABFER Sponsorship - Asian Bureau of Finance and Economic Research, 2025 
 - Travel Grant – Arnold Ventures, 2025  
 - NUS Department of Accounting Doctoral Consortium Award – NUS, 2024  
 - NUS Research Scholarship – NUS, 2023–2027  
@@ -151,4 +150,4 @@ Teaching Assistant
 
 - **Languages**: Mandarin (native), English (fluent)  
 - **Programming & Software**: Python, R, Stata, NVivo, Atlas.ti, LaTeX   
-- **Interests**: Piano, Chinese Flute, Running, Sabre, Reading
+- **Interests**: Piano, Chinese Flute, Running, Sabre, Reading 
